@@ -1,0 +1,15 @@
+E:\работа с vcode\23.05.2022\Task68\bin\Debug\net6.0\Task68.exe
+E:\работа с vcode\23.05.2022\Task68\bin\Debug\net6.0\Task68.deps.json
+E:\работа с vcode\23.05.2022\Task68\bin\Debug\net6.0\Task68.runtimeconfig.json
+E:\работа с vcode\23.05.2022\Task68\bin\Debug\net6.0\Task68.dll
+E:\работа с vcode\23.05.2022\Task68\bin\Debug\net6.0\Task68.pdb
+E:\работа с vcode\23.05.2022\Task68\obj\Debug\net6.0\Task68.csproj.AssemblyReference.cache
+E:\работа с vcode\23.05.2022\Task68\obj\Debug\net6.0\Task68.GeneratedMSBuildEditorConfig.editorconfig
+E:\работа с vcode\23.05.2022\Task68\obj\Debug\net6.0\Task68.AssemblyInfoInputs.cache
+E:\работа с vcode\23.05.2022\Task68\obj\Debug\net6.0\Task68.AssemblyInfo.cs
+E:\работа с vcode\23.05.2022\Task68\obj\Debug\net6.0\Task68.csproj.CoreCompileInputs.cache
+E:\работа с vcode\23.05.2022\Task68\obj\Debug\net6.0\Task68.dll
+E:\работа с vcode\23.05.2022\Task68\obj\Debug\net6.0\refint\Task68.dll
+E:\работа с vcode\23.05.2022\Task68\obj\Debug\net6.0\Task68.pdb
+E:\работа с vcode\23.05.2022\Task68\obj\Debug\net6.0\Task68.genruntimeconfig.cache
+E:\работа с vcode\23.05.2022\Task68\obj\Debug\net6.0\ref\Task68.dll
